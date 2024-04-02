@@ -12,6 +12,7 @@
 [![Raianbr10s3.github.io Badge](https://img.shields.io/badge/-Raianbr10.github.io-6633cc?style=flat-square&logo=DTube&color=14274e&link=https://github.com/Raianbr10/)](https://github.com/Raianbr10/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raian.silva14/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&color=14274e&link=mailto:raian.ni.rncr@gmail.com)](mailto:raian.ni.rncr@gmail.com)
+ ![snake gif](https://github.com/juninho15830/juninho15830/blob/output/github-contribution-grid-snake.gif)
 </p>
 </div>
 </h4>
